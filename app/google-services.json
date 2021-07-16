@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885569926352",
+    "project_id": "fir-realtimedatabase-efcac",
+    "storage_bucket": "fir-realtimedatabase-efcac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885569926352:android:bde974aecac01454861ad5",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885569926352-1jk18n408i3ulupc15m5500fmm4kg4i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3HdpRhwFsxL-meZ-RpU7CTkWeMSBGu9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885569926352-1jk18n408i3ulupc15m5500fmm4kg4i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
